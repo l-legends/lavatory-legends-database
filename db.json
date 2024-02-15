@@ -1,33 +1,101 @@
 {
-  "projects": [
+  "bathrooms": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Bathroom for punks and rockers",
+      "description": "Black and white bathroom, nice wallpaper, very punk and rocky.",
+      "location": [{
+          "place": "Bad Saint",
+          "city": "Washington",
+          "country": "United-States of America"
+    }],
+      "tags": [ "punk", "black","white","accessible", "gender mixed", "safe", "clean"],
+      "imageURL": "https://www.washingtonian.com/wp-content/uploads/2018/05/BadSaint.jpg"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "Pee needs Pop",
+      "description": "Full yellow toilets with nice art, feeling more energized now.",
+      "location": [{
+         "place": "Scene 26 Coffee and Bar",
+          "city": "unknown",
+          "country": "United-States of America"
+    }],
+      "tags": ["pop", "clean", "non-accessible", "soap available"],
+      "imageURL": "hhttps://i.pinimg.com/564x/8b/09/1a/8b091af425daebf9b8efaaa1175fd168.jpg"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "Graffiti",
+      "description": "Red, black and white bathroom.",
+      "location": [{
+        "place": "unknown",
+        "city": "San Juan",
+        "country": "Puerto Rico"
+      }],
+      "tags": ["graffiti", "red", "non-accessible", "not so clean"],
+      "imageURL": "https://i.pinimg.com/564x/d5/97/11/d59711cb309bd38b18ab103600b21bce.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Run PacMan, run !",
+      "description": "Be careful to your feet washing your hands (and I hope you wash them)",
+      "location": [{
+        "place": "Ground Kontrol",
+        "city": "Portland",
+        "country": "United-States of America"
+      }],
+      "tags": ["clean", "dark", "video games", " accessible"],
+      "imageURL": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_3077,w_2135,x_0,y_162/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/Ground-Kontrol_xqqdm8.jpg"
+    },
+    {
+      "id": 5,
+      "title": "She has the mood",
+      "description": "Nice and well designed bathroom with a little addition in the common area.",
+      "location": [{
+        "place": "Lola's Restaurant",
+        "city": "New-York City",
+        "country": "United-States of America"
+      }],
+      "tags": ["clean", "accessible", "well designed", "art"],
+      "imageURL": "https://i.pinimg.com/564x/5b/c4/3e/5bc43efc2ee85a9d19905684cadb3540.jpg"
+    },
+    {
+      "id": 6,
+      "title": "So many things to look at",
+      "description": "Little but comfortable bathroom where we have some things to watch during the thing",
+      "location": [{
+        "place": "unknown",
+        "city": "Montreal",
+        "country": "Quebec"
+      }],
+      "tags": ["small", "non-accessible", "cartoon", "clean"],
+      "imageURL": "https://i.pinimg.com/564x/c6/4c/ce/c64ccef2f24083aa7900695457cfca3d.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Intimate and secretive bathroom",
+      "description": "Well designed and intimate bathroom in an hidden fancy restaurant",
+      "location": [{
+        "place": "Noda",
+        "city": "New-York City",
+        "country": "United-States of America"
+      }],
+      "tags": ["very clean", "dark", "accessible", "design"],
+      "imageURL": "https://i.pinimg.com/564x/8c/05/a6/8c05a6f59640eff224c58572d3d56805.jpg"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "description": "",
+      "location": [{
+        "place": "",
+        "city": "Denver",
+        "country": "United-States of America"
+      }],
+      "tags": ["", "", "", ""],
+      "imageURL": ""
     }
+
   ]
 }
