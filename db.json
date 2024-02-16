@@ -4,300 +4,475 @@
       "id": 1,
       "title": "Bathroom for punks and rockers",
       "description": "Black and white bathroom, nice wallpaper, very punk and rocky.",
-      "location": [{
+      "location": [
+        {
           "place": "Bad Saint",
           "city": "Washington",
           "country": "United-States of America"
-    }],
-      "tags": [ "punk","accessible", "gender mixed", "safe"],
+        }
+      ],
+      "tags": [
+        "punk",
+        "accessible",
+        "gender mixed",
+        "safe"
+      ],
       "imageURL": "https://www.washingtonian.com/wp-content/uploads/2018/05/BadSaint.jpg"
     },
     {
       "id": 2,
       "title": "Pee needs Pop",
       "description": "Full yellow toilets with nice art, feeling more energized now.",
-      "location": [{
-         "place": "Scene 26 Coffee and Bar",
+      "location": [
+        {
+          "place": "Scene 26 Coffee and Bar",
           "city": "unknown",
           "country": "United-States of America"
-    }],
-      "tags": ["pop", "clean", "downstairs", "soap available"],
-      "imageURL": "hhttps://i.pinimg.com/564x/8b/09/1a/8b091af425daebf9b8efaaa1175fd168.jpg"
+        }
+      ],
+      "tags": [
+        "pop",
+        "clean",
+        "downstairs",
+        "soap available"
+      ],
+      "imageURL": "https://i.pinimg.com/564x/8b/09/1a/8b091af425daebf9b8efaaa1175fd168.jpg"
     },
     {
       "id": 3,
       "title": "Graffiti",
       "description": "Red, black and white bathroom.",
-      "location": [{
-        "place": "unknown",
-        "city": "San Juan",
-        "country": "Puerto Rico"
-      }],
-      "tags": ["graffiti", "red", "downstairs", "not so clean"],
+      "location": [
+        {
+          "place": "unknown",
+          "city": "San Juan",
+          "country": "Puerto Rico"
+        }
+      ],
+      "tags": [
+        "graffiti",
+        "red",
+        "downstairs",
+        "not so clean"
+      ],
       "imageURL": "https://i.pinimg.com/564x/d5/97/11/d59711cb309bd38b18ab103600b21bce.jpg"
     },
     {
       "id": 4,
       "title": "Run PacMan, run !",
       "description": "Be careful to your feet washing your hands (and I hope you wash them)",
-      "location": [{
-        "place": "Ground Kontrol",
-        "city": "Portland",
-        "country": "United-States of America"
-      }],
-      "tags": ["clean", "dark", "video games", " accessible"],
+      "location": [
+        {
+          "place": "Ground Kontrol",
+          "city": "Portland",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "clean",
+        "dark",
+        "video games",
+        " accessible"
+      ],
       "imageURL": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_3077,w_2135,x_0,y_162/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/Ground-Kontrol_xqqdm8.jpg"
     },
     {
       "id": 5,
       "title": "She has the mood",
       "description": "Nice and well designed bathroom with a little addition in the common area.",
-      "location": [{
-        "place": "Lola's Restaurant",
-        "city": "New-York City",
-        "country": "United-States of America"
-      }],
-      "tags": ["clean", "accessible", "well designed", "art"],
+      "location": [
+        {
+          "place": "Lola's Restaurant",
+          "city": "New-York City",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "clean",
+        "accessible",
+        "well designed",
+        "art"
+      ],
       "imageURL": "https://i.pinimg.com/564x/5b/c4/3e/5bc43efc2ee85a9d19905684cadb3540.jpg"
     },
     {
       "id": 6,
       "title": "So many things to look at",
       "description": "Little but comfortable bathroom where we have some things to watch during the thing",
-      "location": [{
-        "place": "unknown",
-        "city": "Montreal",
-        "country": "Quebec"
-      }],
-      "tags": ["small", "downstairs", "cartoon", "clean"],
+      "location": [
+        {
+          "place": "unknown",
+          "city": "Montreal",
+          "country": "Quebec"
+        }
+      ],
+      "tags": [
+        "small",
+        "downstairs",
+        "cartoon",
+        "clean"
+      ],
       "imageURL": "https://i.pinimg.com/564x/c6/4c/ce/c64ccef2f24083aa7900695457cfca3d.jpg"
     },
     {
       "id": 7,
       "title": "Intimate and secretive bathroom",
       "description": "Well designed and intimate bathroom in an hidden fancy restaurant",
-      "location": [{
-        "place": "Noda",
-        "city": "New-York City",
-        "country": "United-States of America"
-      }],
-      "tags": ["very clean", "dark", "accessible", "design"],
+      "location": [
+        {
+          "place": "Noda",
+          "city": "New-York City",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "very clean",
+        "dark",
+        "accessible",
+        "design"
+      ],
       "imageURL": "https://i.pinimg.com/564x/8c/05/a6/8c05a6f59640eff224c58572d3d56805.jpg"
     },
     {
       "id": 8,
       "title": "Monkey-lamp added to my wishlist",
       "description": "Well designed jungle-type bathroom with a monkey-lamp",
-      "location": [{
-        "place": "unknown",
-        "city": "Denver",
-        "country": "United-States of America"
-      }],
-      "tags": ["jungle", "designed", "clean", "downstairs"],
+      "location": [
+        {
+          "place": "unknown",
+          "city": "Denver",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "jungle",
+        "design",
+        "clean",
+        "downstairs"
+      ],
       "imageURL": "https://i.pinimg.com/564x/12/a6/5c/12a65cc738474442f9950f466b79f323.jpg"
     },
     {
       "id": 9,
       "title": "Emerauld",
       "description": "Lot of tiles well choosen, green is very classy, still wonder why they have horse pictures on the wall",
-      "location": [{
-        "place": "unknown",
-        "city": "London",
-        "country": "United-Kingdom"
-      }],
-      "tags": ["tiles", "multiple toilets", "not safe", "clean"],
+      "location": [
+        {
+          "place": "unknown",
+          "city": "London",
+          "country": "United-Kingdom"
+        }
+      ],
+      "tags": [
+        "tiles",
+        "multiple toilets",
+        "not safe",
+        "clean"
+      ],
       "imageURL": "https://i.pinimg.com/564x/fe/7b/26/fe7b267b048ca3e611b681b5eec5f725.jpg"
     },
     {
       "id": 10,
       "title": "Dark Academia Bathroom",
       "description": "Very Dark And Well Decorated Bathroom, Lights Give This Place Well Appreciated Intimity",
-      "location": [{
-        "place": "And Why Not",
-        "city": "Boston",
-        "country": "United-States of America"
-      }],
-      "tags": ["dark", "clean", "safe", "art"],
+      "location": [
+        {
+          "place": "And Why Not",
+          "city": "Boston",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "dark",
+        "clean",
+        "safe",
+        "art"
+      ],
       "imageURL": "https://i.pinimg.com/564x/c5/cc/35/c5cc358fdecbaab75f0741d9347491f5.jpg"
-    },   
+    },
     {
       "id": 11,
       "title": "Little family restaurant's pink bathroom",
       "description": "Many many things to look at and the impression someone's watching me",
-      "location": [{
-        "place": "Family Restaurant",
-        "city": "Kiev",
-        "country": "Ukraine"
-      }],
-      "tags": ["pink", "art", "small", "downstairs"],
+      "location": [
+        {
+          "place": "Family Restaurant",
+          "city": "Kiev",
+          "country": "Ukraine"
+        }
+      ],
+      "tags": [
+        "pink",
+        "art",
+        "small",
+        "downstairs"
+      ],
       "imageURL": "https://i.pinimg.com/736x/a2/3c/e6/a23ce67c083d513476aa768159104ca4.jpg"
     },
     {
       "id": 12,
       "title": "Finally a place where I'm feeling confident",
       "description": "A toilet paper wall, why nobody thought about that ???",
-      "location": [{
-        "place": "Jamais en panne",
-        "city": "Troyes",
-        "country": "France"
-      }],
-      "tags": ["very clean", "spacious", "toilet paper available", "accesible"],
+      "location": [
+        {
+          "place": "Jamais en panne",
+          "city": "Troyes",
+          "country": "France"
+        }
+      ],
+      "tags": [
+        "very clean",
+        "spacious",
+        "toilet paper available",
+        "accesible"
+      ],
       "imageURL": "https://i.pinimg.com/564x/95/57/07/9557079a0023af2bb0cfcbf487b5cca0.jpg"
     },
     {
       "id": 13,
       "title": "Not so alone",
       "description": "If you wonder what kind of wallpaper is a fauxpas in a bathroom, there it is",
-      "location": [{
-        "place": "unknown",
-        "city": "Dusseldorf",
-        "country": "Germany"
-      }],
-      "tags": ["wallpaper", "are", "clean", "downstairs"],
+      "location": [
+        {
+          "place": "unknown",
+          "city": "Dusseldorf",
+          "country": "Germany"
+        }
+      ],
+      "tags": [
+        "wallpaper",
+        "are",
+        "clean",
+        "downstairs"
+      ],
       "imageURL": "https://i.pinimg.com/474x/24/e9/d6/24e9d68c973cad155c93a0b0278b04d9.jpg"
     },
     {
       "id": 14,
       "title": "I took the Ladies' bathroom",
       "description": "I don't have any comment to do",
-      "location": [{
-        "place": "Wide Open",
-        "city": "Las Vegas",
-        "country": "United-States of America"
-      }],
-      "tags": ["pop", "design", "clean", "upstairs"],
+      "location": [
+        {
+          "place": "Wide Open",
+          "city": "Las Vegas",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "pop",
+        "design",
+        "clean",
+        "upstairs"
+      ],
       "imageURL": "https://i.pinimg.com/564x/49/22/86/492286d5e644e183d8a6f718f375a36c.jpg"
     },
     {
       "id": 15,
       "title": "Lot of men watching",
       "description": "Impressive ceilling decor with posters",
-      "location": [{
-        "place": "Encore Heureux",
-        "city": "Bruxels",
-        "country": "Belgium"
-      }],
-      "tags": ["clean", "spacious", "upstairs", "pop-culture"],
+      "location": [
+        {
+          "place": "Encore Heureux",
+          "city": "Bruxels",
+          "country": "Belgium"
+        }
+      ],
+      "tags": [
+        "clean",
+        "spacious",
+        "upstairs",
+        "pop-culture"
+      ],
       "imageURL": "https://i.pinimg.com/564x/3b/55/f1/3b55f164a91c3da147f7a0e936c129c9.jpg"
     },
     {
       "id": 16,
       "title": "Fancy bathroom in a fancy restaurant",
       "description": "The ceiling is beautiful but contains a lot of dust",
-      "location": [{
-        "place": "Amour toujours",
-        "city": "Barcelona",
-        "country": "Spain"
-      }],
-      "tags": ["luxury", "plants", "clean", "accesible"],
+      "location": [
+        {
+          "place": "Amour toujours",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "tags": [
+        "luxury",
+        "plants",
+        "clean",
+        "accesible"
+      ],
       "imageURL": "https://i.pinimg.com/564x/f6/5b/5d/f65b5d22c070bcd800951996e6bb2bcf.jpg"
     },
     {
       "id": 17,
       "title": "Back to mother nature",
       "description": "An interior garden in the bathroom. Not surprised tho, the bar is also a garden !",
-      "location": [{
-        "place": "Garden Bar",
-        "city": "Marrakech",
-        "country": "Marocco"
-      }],
-      "tags": ["plants", "design", "clean", "not wheelchair-friendly"],
+      "location": [
+        {
+          "place": "Garden Bar",
+          "city": "Marrakech",
+          "country": "Marocco"
+        }
+      ],
+      "tags": [
+        "plants",
+        "design",
+        "clean",
+        "not wheelchair-friendly"
+      ],
       "imageURL": "https://i.pinimg.com/564x/2c/65/fb/2c65fb497951c5939fba92df9b2a4278.jpg"
     },
     {
       "id": 18,
       "title": "Go-go-gorilla",
       "description": "I don't know what catch my eyes first ; the signs on the doors or the GIANT GORILLA LOOKING AT ME",
-      "location": [{
-        "place": "Jungle Fever NightClub",
-        "city": "Las Vegas",
-        "country": "United-States of America"
-      }],
-      "tags": ["jungle", "design", "downstairs", "not so clean"],
+      "location": [
+        {
+          "place": "Jungle Fever NightClub",
+          "city": "Las Vegas",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "jungle",
+        "design",
+        "downstairs",
+        "not so clean"
+      ],
       "imageURL": "https://i.pinimg.com/564x/78/08/17/7808173fccd1e6fae84611e3c199437c.jpg"
     },
     {
       "id": 19,
       "title": "Hand-mirror or mirror-hand ?",
       "description": "I don't know where to look at but surprisingly, everything is well accorded",
-      "location": [{
-        "place": "Los Cachivaches De Mi Abuela",
-        "city": "unknow",
-        "country": "Brazil"
-      }],
-      "tags": ["dark", "special", "downstairs", "not so clean"],
+      "location": [
+        {
+          "place": "Los Cachivaches De Mi Abuela",
+          "city": "unknow",
+          "country": "Brazil"
+        }
+      ],
+      "tags": [
+        "dark",
+        "special",
+        "downstairs",
+        "not so clean"
+      ],
       "imageURL": "https://i.pinimg.com/564x/07/a7/e9/07a7e97b568a2d97eb902c59f7ba9616.jpg"
     },
     {
       "id": 20,
       "title": "Japan theme bathroom",
       "description": "Well accorded to the bar",
-      "location": [{
-        "place": "Aligato",
-        "city": "New-York City",
-        "country": "United-States of America"
-      }],
-      "tags": ["clean", "small", "pop-culture", "downstairs"],
+      "location": [
+        {
+          "place": "Aligato",
+          "city": "New-York City",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "clean",
+        "small",
+        "pop-culture",
+        "downstairs"
+      ],
       "imageURL": "https://i.pinimg.com/564x/ac/7d/df/ac7ddf188aa79ae505139726b87a1632.jpg"
     },
     {
       "id": 21,
       "title": "I thought there was no wall",
       "description": "The wall is a mirror but over(w)all great experience facing myself, gave me time to think",
-      "location": [{
-        "place": "Viva la Vida",
-        "city": "Marseille",
-        "country": "France"
-      }],
-      "tags": ["industrial", "clean", "accessible", "design"],
+      "location": [
+        {
+          "place": "Viva la Vida",
+          "city": "Marseille",
+          "country": "France"
+        }
+      ],
+      "tags": [
+        "industrial",
+        "clean",
+        "accessible",
+        "design"
+      ],
       "imageURL": "https://i.pinimg.com/564x/08/79/92/0879929757dbd0683cf2c568795dad4b.jpg"
     },
     {
       "id": 22,
       "title": "I fell in her eye",
       "description": "Did you already felt overwhelmed by a bathroom ? Now yes.",
-      "location": [{
-        "place": "GIRLS dance club",
-        "city": "Saint-Quentin-Les-Boulons",
-        "country": "France"
-      }],
-      "tags": ["special", "downstairs", "pink", "spacious"],
+      "location": [
+        {
+          "place": "GIRLS dance club",
+          "city": "Saint-Quentin-Les-Boulons",
+          "country": "France"
+        }
+      ],
+      "tags": [
+        "special",
+        "downstairs",
+        "pink",
+        "spacious"
+      ],
       "imageURL": "https://i.pinimg.com/564x/f7/9b/5c/f79b5cc7957bdd16334bfdce5bb93302.jpg"
     },
     {
       "id": 23,
       "title": "She saw so many",
       "description": "Appreciate Marylin. Don't appreciate her smile at this exact moment.",
-      "location": [{
-        "place": "Barbare Bar",
-        "city": "Paris",
-        "country": "United-States of America"
-      }],
-      "tags": ["pop-culture", "downstairs", "not so clean", "not wheelchair-friendly"],
+      "location": [
+        {
+          "place": "Barbare Bar",
+          "city": "Paris",
+          "country": "United-States of America"
+        }
+      ],
+      "tags": [
+        "pop-culture",
+        "downstairs",
+        "not so clean",
+        "not wheelchair-friendly"
+      ],
       "imageURL": "https://i.pinimg.com/564x/28/91/49/289149a772ced166bc9747c7c26c2529.jpg"
     },
     {
       "id": 24,
       "title": "Thank you",
       "description": "I was having a bad day",
-      "location": [{
-        "place": "Happy Mind",
-        "city": "Porto",
-        "country": "Portugal"
-      }],
-      "tags": ["spacious", "tiles", "accesible", "safe"],
+      "location": [
+        {
+          "place": "Happy Mind",
+          "city": "Porto",
+          "country": "Portugal"
+        }
+      ],
+      "tags": [
+        "spacious",
+        "tiles",
+        "accesible",
+        "safe"
+      ],
       "imageURL": "https://i.pinimg.com/736x/d6/ce/24/d6ce24ef6c332897cc4790d1d9af9f85.jpg"
     },
     {
       "id": 25,
       "title": "Nice",
       "description": "Loved the mirrors",
-      "location": [{
-        "place": "unknown",
-        "city": "Stockolm",
-        "country": "Sweden"
-      }],
-      "tags": ["clean", "fancy", "accessible", "spacious"],
+      "location": [
+        {
+          "place": "unknown",
+          "city": "Stockolm",
+          "country": "Sweden"
+        }
+      ],
+      "tags": [
+        "clean",
+        "fancy",
+        "accessible",
+        "spacious"
+      ],
       "imageURL": "https://i.pinimg.com/564x/54/1d/a6/541da6e0b3da93221915d440b7db7910.jpg"
     }
   ]
