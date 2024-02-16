@@ -1,16 +1,16 @@
-
+{
+  "lavatories" :
  [
     {
       "id": 1,
       "title": "Bathroom for punks and rockers",
       "description": "Black and white bathroom, nice wallpaper, very punk and rocky.",
-      "location": [
+      "location": 
         {
           "place": "Bad Saint",
           "city": "Washington",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "punk",
         "accessible",
@@ -23,13 +23,12 @@
       "id": 2,
       "title": "Pee needs Pop",
       "description": "Full yellow toilets with nice art, feeling more energized now.",
-      "location": [
+      "location": 
         {
           "place": "Scene 26 Coffee and Bar",
           "city": "unknown",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "pop",
         "clean",
@@ -42,13 +41,12 @@
       "id": 3,
       "title": "Graffiti",
       "description": "Red, black and white bathroom.",
-      "location": [
+      "location":
         {
           "place": "unknown",
           "city": "San Juan",
           "country": "Puerto Rico"
-        }
-      ],
+        },
       "tags": [
         "graffiti",
         "red",
@@ -61,13 +59,11 @@
       "id": 4,
       "title": "Run PacMan, run !",
       "description": "Be careful to your feet washing your hands (and I hope you wash them)",
-      "location": [
-        {
+      "location": {
           "place": "Ground Kontrol",
           "city": "Portland",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "clean",
         "dark",
@@ -80,13 +76,12 @@
       "id": 5,
       "title": "She has the mood",
       "description": "Nice and well designed bathroom with a little addition in the common area.",
-      "location": [
+      "location":
         {
           "place": "Lola's Restaurant",
           "city": "New-York City",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "clean",
         "accessible",
@@ -99,13 +94,12 @@
       "id": 6,
       "title": "So many things to look at",
       "description": "Little but comfortable bathroom where we have some things to watch during the thing",
-      "location": [
+      "location": 
         {
           "place": "unknown",
           "city": "Montreal",
           "country": "Quebec"
-        }
-      ],
+        },
       "tags": [
         "small",
         "downstairs",
@@ -118,13 +112,12 @@
       "id": 7,
       "title": "Intimate and secretive bathroom",
       "description": "Well designed and intimate bathroom in an hidden fancy restaurant",
-      "location": [
+      "location": 
         {
           "place": "Noda",
           "city": "New-York City",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "very clean",
         "dark",
@@ -137,13 +130,12 @@
       "id": 8,
       "title": "Monkey-lamp added to my wishlist",
       "description": "Well designed jungle-type bathroom with a monkey-lamp",
-      "location": [
+      "location":
         {
           "place": "unknown",
           "city": "Denver",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "jungle",
         "design",
@@ -156,13 +148,12 @@
       "id": 9,
       "title": "Emerauld",
       "description": "Lot of tiles well choosen, green is very classy, still wonder why they have horse pictures on the wall",
-      "location": [
+      "location":
         {
           "place": "unknown",
           "city": "London",
           "country": "United-Kingdom"
-        }
-      ],
+        },
       "tags": [
         "tiles",
         "multiple toilets",
@@ -175,13 +166,12 @@
       "id": 10,
       "title": "Dark Academia Bathroom",
       "description": "Very Dark And Well Decorated Bathroom, Lights Give This Place Well Appreciated Intimity",
-      "location": [
+      "location":
         {
           "place": "And Why Not",
           "city": "Boston",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "dark",
         "clean",
@@ -194,13 +184,12 @@
       "id": 11,
       "title": "Little family restaurant's pink bathroom",
       "description": "Many many things to look at and the impression someone's watching me",
-      "location": [
+      "location":
         {
           "place": "Family Restaurant",
           "city": "Kiev",
           "country": "Ukraine"
-        }
-      ],
+        },
       "tags": [
         "pink",
         "art",
@@ -213,13 +202,12 @@
       "id": 12,
       "title": "Finally a place where I'm feeling confident",
       "description": "A toilet paper wall, why nobody thought about that ???",
-      "location": [
+      "location":
         {
           "place": "Jamais en panne",
           "city": "Troyes",
           "country": "France"
-        }
-      ],
+        },
       "tags": [
         "very clean",
         "spacious",
@@ -232,13 +220,12 @@
       "id": 13,
       "title": "Not so alone",
       "description": "If you wonder what kind of wallpaper is a fauxpas in a bathroom, there it is",
-      "location": [
+      "location":
         {
           "place": "unknown",
           "city": "Dusseldorf",
           "country": "Germany"
-        }
-      ],
+        },
       "tags": [
         "wallpaper",
         "are",
@@ -251,13 +238,12 @@
       "id": 14,
       "title": "I took the Ladies' bathroom",
       "description": "I don't have any comment to do",
-      "location": [
+      "location":
         {
           "place": "Wide Open",
           "city": "Las Vegas",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "pop",
         "design",
@@ -270,13 +256,12 @@
       "id": 15,
       "title": "Lot of men watching",
       "description": "Impressive ceilling decor with posters",
-      "location": [
+      "location":
         {
           "place": "Encore Heureux",
           "city": "Bruxels",
           "country": "Belgium"
-        }
-      ],
+        },
       "tags": [
         "clean",
         "spacious",
@@ -289,13 +274,12 @@
       "id": 16,
       "title": "Fancy bathroom in a fancy restaurant",
       "description": "The ceiling is beautiful but contains a lot of dust",
-      "location": [
+      "location": 
         {
           "place": "Amour toujours",
           "city": "Barcelona",
           "country": "Spain"
-        }
-      ],
+        },
       "tags": [
         "luxury",
         "plants",
@@ -308,13 +292,12 @@
       "id": 17,
       "title": "Back to mother nature",
       "description": "An interior garden in the bathroom. Not surprised tho, the bar is also a garden !",
-      "location": [
+      "location":
         {
           "place": "Garden Bar",
           "city": "Marrakech",
           "country": "Marocco"
-        }
-      ],
+        },
       "tags": [
         "plants",
         "design",
@@ -327,13 +310,12 @@
       "id": 18,
       "title": "Go-go-gorilla",
       "description": "I don't know what catch my eyes first ; the signs on the doors or the GIANT GORILLA LOOKING AT ME",
-      "location": [
+      "location": 
         {
           "place": "Jungle Fever NightClub",
           "city": "Las Vegas",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "jungle",
         "design",
@@ -346,13 +328,12 @@
       "id": 19,
       "title": "Hand-mirror or mirror-hand ?",
       "description": "I don't know where to look at but surprisingly, everything is well accorded",
-      "location": [
+      "location":
         {
           "place": "Los Cachivaches De Mi Abuela",
           "city": "unknow",
           "country": "Brazil"
-        }
-      ],
+        },
       "tags": [
         "dark",
         "special",
@@ -365,13 +346,12 @@
       "id": 20,
       "title": "Japan theme bathroom",
       "description": "Well accorded to the bar",
-      "location": [
+      "location":
         {
           "place": "Aligato",
           "city": "New-York City",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "clean",
         "small",
@@ -384,13 +364,12 @@
       "id": 21,
       "title": "I thought there was no wall",
       "description": "The wall is a mirror but over(w)all great experience facing myself, gave me time to think",
-      "location": [
+      "location": 
         {
           "place": "Viva la Vida",
           "city": "Marseille",
           "country": "France"
-        }
-      ],
+        },
       "tags": [
         "industrial",
         "clean",
@@ -403,13 +382,12 @@
       "id": 22,
       "title": "I fell in her eye",
       "description": "Did you already felt overwhelmed by a bathroom ? Now yes.",
-      "location": [
+      "location":
         {
           "place": "GIRLS dance club",
           "city": "Saint-Quentin-Les-Boulons",
           "country": "France"
-        }
-      ],
+        },
       "tags": [
         "special",
         "downstairs",
@@ -422,13 +400,12 @@
       "id": 23,
       "title": "She saw so many",
       "description": "Appreciate Marylin. Don't appreciate her smile at this exact moment.",
-      "location": [
+      "location": 
         {
           "place": "Barbare Bar",
           "city": "Paris",
           "country": "United-States of America"
-        }
-      ],
+        },
       "tags": [
         "pop-culture",
         "downstairs",
@@ -441,13 +418,12 @@
       "id": 24,
       "title": "Thank you",
       "description": "I was having a bad day",
-      "location": [
+      "location": 
         {
           "place": "Happy Mind",
           "city": "Porto",
           "country": "Portugal"
-        }
-      ],
+        },
       "tags": [
         "spacious",
         "tiles",
@@ -460,13 +436,12 @@
       "id": 25,
       "title": "Nice",
       "description": "Loved the mirrors",
-      "location": [
+      "location": 
         {
           "place": "unknown",
           "city": "Stockolm",
           "country": "Sweden"
-        }
-      ],
+        },
       "tags": [
         "clean",
         "fancy",
@@ -476,3 +451,4 @@
       "imageURL": "https://i.pinimg.com/564x/54/1d/a6/541da6e0b3da93221915d440b7db7910.jpg"
     }
   ]
+}
