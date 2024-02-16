@@ -1,5 +1,5 @@
-{
-  "bathrooms": [
+
+ [
     {
       "id": 1,
       "title": "Bathroom for punks and rockers",
@@ -476,4 +476,3 @@
       "imageURL": "https://i.pinimg.com/564x/54/1d/a6/541da6e0b3da93221915d440b7db7910.jpg"
     }
   ]
-}
